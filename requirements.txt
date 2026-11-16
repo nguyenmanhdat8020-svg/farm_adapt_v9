@@ -1,0 +1,8 @@
+flask
+python-dotenv
+google-genai
+psycopg2-binary
+gunicorn
+truststore
+# tùy chọn, chỉ cần nếu muốn giữ Groq làm dự phòng:
+# groq
